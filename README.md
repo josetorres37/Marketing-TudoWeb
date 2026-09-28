@@ -4,24 +4,9 @@ Este repositório contém a resolução da atividade prática para a empresa de 
 
 ## 📋 Descrição do Projeto
 
-O programa foi desenvolvido em Python utilizando estruturas de repetição (`for` e `while`) e estruturas condicionais (`if/elif/else`). Ele coleta dados de **nome, idade e opinião** de 50 entrevistados (com versão ajustável para 10 para fins de teste), valida se a entrada está correta e, ao final, exibe um relatório detalhado contendo:
+O programa foi desenvolvido em Python utilizando estruturas de repetição (`for` e `while`) e estruturas condicionais (`if/elif/else`). Ele coleta dados de **nome, idade e opinião** de 50 entrevistados, valida se a entrada está correta e, ao final, exibe um relatório detalhado contendo:
 * A quantidade de respostas **EXCELENTE**
 * A quantidade de respostas **RUIM**
-
-## 🛠️ Competências e Habilidades Desenvolvidas
-
-* **Implementação de Algoritmos:** Desenvolvimento de lógica estruturada em ambiente de programação.
-* **Estruturas de Repetição:** Uso prático do laço `for` para iterações controladas.
-* **Estruturas de Decisão:** Validação de dados e contagem condicional de variáveis.
-
-## 🚀 Como Executar o Projeto
-
-1. Certifique-se de ter o **Python 3.x** instalado em sua máquina.
-2. Baixe o arquivo do script deste repositório.
-3. Abra o terminal ou prompt de comando na pasta do arquivo e execute:
-   ```bash
-   python nome_do_seu_arquivo.py
-   ```
 
 ## 📸 Evidências de Código e Execução
 
