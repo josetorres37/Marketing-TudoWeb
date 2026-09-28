@@ -28,11 +28,11 @@ O programa foi desenvolvido em Python utilizando estruturas de repetição (`for
 Abaixo estão os registros visuais do funcionamento do programa durante a fase de validação com 10 entrevistados:
 
 ### Código Fonte no Ambiente de Desenvolvimento
-![Código Fonte]([substitua_pelo_caminho_da_sua_imagem_do_codigo.png](https://github.com/josetorres37/Marketing-TudoWeb/blob/main/imagens/print_codigo.png))
+![Código Fonte][substitua_pelo_caminho_da_sua_imagem_do_codigo.png](https://github.com/josetorres37/Marketing-TudoWeb/blob/main/imagens/print_codigo.png]
 *Legenda: Estrutura do código desenvolvida seguindo as boas práticas de programação.*
 
 ### Execução e Resultados no Terminal
-![Execução do Programa]([substitua_pelo_caminho_da_sua_imagem_da_execucao.png](https://github.com/josetorres37/Marketing-TudoWeb/blob/main/imagens/print_execucao.png))
+![Execução do Programa][https://github.com/josetorres37/Marketing-TudoWeb/blob/main/imagens/print_execucao.png]
 *Legenda: Tela do terminal exibindo a coleta de dados e o relatório final de satisfação.*
 
 
