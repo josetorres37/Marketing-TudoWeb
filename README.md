@@ -14,10 +14,12 @@ Abaixo estão os registros visuais do funcionamento do programa durante a fase d
 
 ### Código Fonte no Ambiente de Desenvolvimento
 ![Código Fonte](https://github.com/josetorres37/Marketing-TudoWeb/blob/main/imagens/print_codigo.png)
+
 *Legenda: Estrutura do código desenvolvida seguindo as boas práticas de programação.*
 
 ### Execução e Resultados no Terminal
 ![Execução do Programa](https://github.com/josetorres37/Marketing-TudoWeb/blob/main/imagens/print_execucao.png)
+
 *Legenda: Tela do terminal exibindo a coleta de dados e o relatório final de satisfação.*
 
 
